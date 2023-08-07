@@ -1,0 +1,20 @@
+.profile-page{
+  padding: 20px;
+  background-color: #E8E8E8;
+}
+.content {
+  background-color: white;
+  padding: 10px
+}
+.sub-text{
+  color: #888888;
+  font-size: 14px;
+}
+
+.bottom-sticky{
+  border-top: 2px solid #E8E8E8;
+  position: sticky;
+  bottom: 0px;
+  padding: 10px;
+  background-color: white;
+}

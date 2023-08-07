@@ -1,0 +1,29 @@
+.hotel-title{
+  color: #1A1A1A;
+  font-weight: 500;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  font-size: 14px;
+  padding-left: 10px;
+  padding-right:10px;
+}
+.hotel-location{
+  color: #888888;
+  font-weight: 500;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right:10px
+}
+
+.hotel-description{
+  color: #888888;
+  font-weight: 500;
+  padding-bottom: 25px;
+  padding-top: 5px;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right:10px;
+  margin-bottom: 20px
+}

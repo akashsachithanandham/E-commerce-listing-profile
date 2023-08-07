@@ -1,0 +1,12 @@
+.listing-page{
+  padding: 20px
+}
+.hotels {
+  margin-top: 20px;
+}
+.filters-section{
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  margin-top: 10px
+}
